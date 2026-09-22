@@ -82,7 +82,6 @@ end-to-end-etl-sql-analytics/
 | `orders.csv`             | Raw orders dataset used for the project                                    |
 | `order data analysis.py` | Python/Pandas code for data loading, cleaning, transformation and analysis |
 | `sql_code.sql`           | SQL queries used for data analysis                                         |
-| `screenshots/`           | Screenshots of Python/SQL outputs, if applicable                           |
 | `README.md`              | Project documentation                                                      |
 
 ---
