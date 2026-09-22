@@ -16,36 +16,6 @@ Business-oriented SQL queries
 Aggregations and analytical functions
 Deriving insights from order and sales data
 
-
-Project Workflow
-
-Orders Dataset
-      │
-      ▼
-   orders.csv
-      │
-      ▼
-Python + Pandas
-      │
-      ├── Data Loading
-      ├── Data Cleaning
-      ├── Data Transformation
-      └── Data Analysis
-      │
-      ▼
-SQL
-      │
-      ├── Filtering
-      ├── Aggregations
-      ├── GROUP BY / HAVING
-      ├── JOINs
-      ├── CASE statements
-      ├── CTEs
-      └── Window Functions
-      │
-      ▼
-Business Insights
-
 🛠️ Technologies Used
 Python
 Pandas
@@ -64,7 +34,7 @@ end-to-end-etl-sql-analytics/
 
 
 File	Description
-orders.csv	Raw orders dataset used for the project
-order data analysis.py	Python/Pandas code for data loading, cleaning, transformation and analysis
-sql_code.sql	SQL queries used for data analysis
-README.md	Project documentation
+orders.csv	- Raw orders dataset used for the project.
+order data analysis.py	- Python/Pandas code for data loading, cleaning, transformation and analysis.
+sql_code.sql	- SQL queries used for data analysis.
+README.md	-Project documentation
